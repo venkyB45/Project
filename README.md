@@ -1,0 +1,2 @@
+# Project
+ This repository contains the source code and data for my data analysis project, which explores the impact of socioeconomic factors on COVID-19 infection rates at the county level in the United States. Specifically, the project aims to understand how Median Household Income and the Percentage of Population Vaccinated are associated with the COVID-19 Infection Rate. The analysis includes data visualization, correlation analysis, hypothesis testing, and regression modeling.
