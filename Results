@@ -1,0 +1,34 @@
+# Results
+### Summary of Main Findings
+- I found a weak positive correlation (0.04) between Median Household Income and COVID-19 Infection Rate, but it was not statistically significant.
+- There was a weak negative correlation (-0.01) between the Percentage of Population Vaccinated and Infection Rate, which was also not statistically significant.
+### Graphical Representations
+![Correlation Matrix](math-project-images/correlation.png)
+### Statistical Results
+- Coefficient for Median Household Income: 0.0061 (p-value: 0.676)
+- Coefficient for Percentage of Population Vaccinated: -8.4253 (p-value: 0.835)
+- Intercept: 31585.91
+### 2T-test results
+![2T-test results](math-project-images/finalresults.png)
+T-Test Results for Income Thresholds:
+T-Statistic: -2.9718415514397916
+-This t-statistic measures the difference in the means of infection rates between counties with median household income above the threshold and those below the threshold.
+-A negative t-statistic suggests that counties with higher incomes have, on average, lower infection rates.
+P-Value: 0.003749941062923792
+-The p-value represents the probability of observing such a difference in means by random chance.
+-In this case, the p-value is less than 0.05, indicating that the difference in means is statistically significant at a 5% significance level. Therefore, income appears to have a significant effect on infection rates.
+
+T-Test Results for Vaccination Thresholds:
+T-Statistic: 0.8375038137576495
+-This t-statistic measures the difference in the means of infection rates between counties with a percentage of the population vaccinated above the threshold and those below the threshold.
+-The positive t-statistic suggests that there is a slight difference in means, but it is not as pronounced as in the income threshold test.
+P-Value: 0.4044114709769113
+-The p-value for this test is greater than 0.05, indicating that the difference in means is not statistically significant at a 5% significance level. This suggests that vaccination rates may not have a significant effect on infection rates.
+### Interpretation
+These findings suggest that income and vaccination rates have very weak and statistically insignificant associations with COVID-19 infection rates at the county level.
+### Limitations
+It's important to note that this analysis is based on limited sample data and may not capture the full complexity of the relationships.
+### Next Steps
+Future research could explore additional variables(Population Density,Travel and Commuting Patterns,Viral Variants..etc) and conduct more in-depth analyses to better understand the factors influencing COVID-19 infection rates.
+### Conclusion
+While our analysis did not find strong associations between income, vaccination rates, and infection rates as expected, it provides a foundation for further investigation into the socioeconomic impact on the spread of COVID-19.
