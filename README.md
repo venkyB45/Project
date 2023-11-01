@@ -13,4 +13,3 @@ I have collected sample data for counties, including their COVID-19 Infection Ra
 # results
 ![Correlation Matrix](images/download (1).png)
 
-![Results of 2 t-test](images/results math project.png)
