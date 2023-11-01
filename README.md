@@ -10,5 +10,6 @@ This factor represents the median household income in each county, measured in d
 This factor indicates the percentage of the population in each county that has received at least one dose of the COVID-19 vaccine. It reflects the level of vaccination coverage within a county, which can impact the spread and severity of COVID-19.
 ## Data collected
 I have collected sample data for counties, including their COVID-19 Infection Rates, Median Household Incomes, and Percentages of Vaccinated Population from Census.gov and In class provided github data.
-![Correlation Matrix](download (1).png)
-![Results of 2 t-test](results math project.png)
+# results
+[Correlation Matrix](download (1).png)
+[Results of 2 t-test](results math project.png)
