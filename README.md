@@ -11,6 +11,6 @@ This factor indicates the percentage of the population in each county that has r
 ## Data collected
 I have collected sample data for counties, including their COVID-19 Infection Rates, Median Household Incomes, and Percentages of Vaccinated Population from Census.gov and In class provided github data.
 # results
-[Correlation Matrix](images/download (1).png)
+![Correlation Matrix](images/download (1).png)
 
-[Results of 2 t-test](images/results math project.png)
+![Results of 2 t-test](images/results math project.png)
