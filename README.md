@@ -16,8 +16,8 @@ I have collected sample data for counties, including their COVID-19 Infection Ra
 3)The obtained results further support the notion that the model does not effectively explain the variation in COVID-19 Infection Rates. Both the Median Household Income and Percentage of Population Vaccinated variables have very weak and statistically insignificant relationships with the Infection Rate.
 # results
 ## Linear Reggresion results
-![income vs infection rate](linearreggression1.png) \
-![dose !% vs infection rate](linearreggresion2.png) \
-![Correlation Matrix](correlation.png) \
-![Correlation Matrix](finalresults.png) \
+![income vs infection rate](math-project-images/linearreggression1.png) \
+![dose !% vs infection rate](math-project-images/linearreggression2.png) \
+![Correlation Matrix](math-project-images/correlation.png) \
+![2-t-test](math-project-images/finalresults.png) 
 
